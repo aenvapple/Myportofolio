@@ -1,0 +1,6 @@
+{
+  "name": "EVAN.OS - 3D Island Simulation",
+  "description": "EVAN.OS interactive 3D low-poly island with third-person avatar navigation, WASD movement, mouse camera control, obstacle collisions, dynamic day/night lighting, and smooth camera follow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
